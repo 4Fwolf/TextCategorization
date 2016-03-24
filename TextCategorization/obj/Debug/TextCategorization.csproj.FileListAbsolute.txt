@@ -1,0 +1,15 @@
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\bin\Debug\TextCategorization.exe.config
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\bin\Debug\TextCategorization.exe
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\bin\Debug\TextCategorization.pdb
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\TextCategorization.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\MainWindow.baml
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\MainWindow.g.cs
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\App.g.cs
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\TextCategorization_MarkupCompile.cache
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\TextCategorization.g.resources
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\TextCategorization.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\TextCategorization.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\TextCategorization.exe
+c:\users\sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\TextCategorization.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\CreateProfileWnd.baml
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Debug\CreateProfileWnd.g.cs

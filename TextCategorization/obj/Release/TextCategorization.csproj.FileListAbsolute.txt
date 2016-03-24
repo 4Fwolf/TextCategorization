@@ -1,0 +1,14 @@
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\bin\Release\TextCategorization.exe.config
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\bin\Release\TextCategorization.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\bin\Release\TextCategorization.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\CreateProfileWnd.baml
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\MainWindow.baml
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\CreateProfileWnd.g.cs
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\MainWindow.g.cs
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\App.g.cs
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization_MarkupCompile.cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.g.resources
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.Properties.Resources.resources
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.csproj.GenerateResource.Cache
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.exe
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.pdb
