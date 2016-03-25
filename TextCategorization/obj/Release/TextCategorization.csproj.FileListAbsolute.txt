@@ -12,3 +12,4 @@ C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCate
 C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.csproj.GenerateResource.Cache
 C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.exe
 C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\TextCategorization\TextCategorization\obj\Release\TextCategorization.csprojResolveAssemblyReference.cache

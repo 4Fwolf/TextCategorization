@@ -161,17 +161,18 @@ namespace TextCategorization
                     }
                     #endregion
 
-                    int outOfPlaceMax = nGrams.Values.Max();
+                    Dictionary<string, int> deserializedDictionary = deserialized.ToDictionary(key => key.Key, value => value.Value);
+
                     bool flag = false;
 
                     #region Compare
-                    foreach (var pItem in deserialized)
+                    foreach (var pItem in nGrams)
                     {
-                        if (nGrams.Keys.Contains(pItem.Key))
+                        if (deserializedDictionary.Keys.Contains(pItem.Key))
                         {
-                            counter += (ushort) (pItem.Value - nGrams[pItem.Key]);
+                            counter += (ushort)(deserializedDictionary[pItem.Key] - pItem.Value);
                         }
-                        else counter += outOfPlaceMax;
+                        else counter += pItem.Value;
                     }
                     #endregion
 
